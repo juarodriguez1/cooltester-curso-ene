@@ -27,7 +27,7 @@ public class Seleniumejercicio1 {
 		
 		System.out.println("Paso la Prueba");
 		
-		driver.get(null)
+		//driver.get(null)
 	}
 
 	@BeforeTest
