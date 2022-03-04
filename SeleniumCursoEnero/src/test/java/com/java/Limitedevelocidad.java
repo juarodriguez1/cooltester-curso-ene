@@ -3,6 +3,8 @@ package com.java;
 public class Limitedevelocidad {
 
 	public static void main(String[] args) {
+		//CONDICIONALES
+		
 		/* Automovil conduciendo en exceso de velocidad
 		 * 
 		 */
@@ -10,7 +12,7 @@ public class Limitedevelocidad {
 		int limiteVelocidad = 80; //km/h
 		int velocidadActual = 100; //km/h
 		boolean carretera = false; //KM/H
-		
+		//IF
 //		if (velocidadActual >limiteVelocidad) {
 	//		System.out.println("MULTA");
 	//	}else {
@@ -18,7 +20,7 @@ public class Limitedevelocidad {
 	//   }
 		
 		
-		
+	// IF ANIDADO	
 	//	if (carretera) {
 			
 	//	limiteVelocidad = 100; //km/h
